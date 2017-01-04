@@ -1,6 +1,7 @@
 # Links to my Shiny Apps projects
 
-* 1]
+* [My First Shiny App](http://tarunparmar.shinyapps.io/FirstRapp)
+* [Data Analysis and Visualization App](http://tarunparmar.shinyapps.io)
 * 2]
 * 3]
 * 4]
