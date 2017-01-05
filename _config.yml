@@ -26,8 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - My Shiny Apps: "http://tarunparmar.github.io/myshinyapps/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - Resume: "http://tarunparmar.github.io/resume"
+    - Learning Resources: "http://tarunparmar.github.io/learninglinks/"
+    - Resume: "http://tarunparmar.github.io/resume/"
   Author's home: "http://tarunparmar.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
