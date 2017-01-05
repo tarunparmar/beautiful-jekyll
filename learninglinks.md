@@ -1,5 +1,7 @@
-## Some good learning links
-br(),br(),
+## Some good learning links  
+  
+  
+
 #### R
 
 * [R Cookbook](http://cookbook-r.com) [(PDF)](http://ase.tufts.edu/bugs/guide/assets/R%20Cookbook.pdf)
