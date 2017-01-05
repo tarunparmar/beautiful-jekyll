@@ -1,8 +1,8 @@
 ## Some good learning links
-
+br(),br(),
 #### R
 
-* [R Cookbook](cookbook-r.com) [(PDF)](ase.tufts.edu/bugs/guide/assets/R%20Cookbook.pdf)
+* [R Cookbook](http://cookbook-r.com) [(PDF)](http://ase.tufts.edu/bugs/guide/assets/R%20Cookbook.pdf)
 
 * [R Graphics Cookbook - PDF](http://ase.tufts.edu/bugs/guide/assets/R%20Graphics%20Cookbook.pdf) 
 
