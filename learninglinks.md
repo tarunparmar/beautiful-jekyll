@@ -1,5 +1,8 @@
-## Some good learning links  
-  
+---
+layout: page
+title: Learning References
+subtitle: Some helpful learning resources, for everthing else there is always Google!
+---
   
 
 #### R
@@ -14,6 +17,7 @@
 
 * [SparklyR from RStudio for cluster computing](http://spark.rstudio.com/)
 
+  
 #### R Shiny 
 
 * [RStudio Shiny homepage](http://shiny.rstudio.com/)

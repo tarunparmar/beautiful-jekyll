@@ -1,4 +1,9 @@
-#### Links to my Shiny Apps projects
+---
+layout: page
+title: Shiny Apps projects
+subtitle: Links to some of my Shiny Apps projects
+---
+
 
 * [My First Shiny App](http://tarunparmar.shinyapps.io/FirstRapp)
 
