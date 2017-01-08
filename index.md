@@ -6,6 +6,6 @@ bigimg:
   - "/img/bigimgs/nba-scoring.png" : "NBA scoring spots"
   - "/img/bigimgs/plasma.jpg" : "Playing with Plasma"
   - "/img/bigimgs/raindrops.jpg" : "Raindrops"
-  - "img/bigimgs/satellites.png" : "Satellites Orbiting Earth"
+  - "/img/bigimgs/satellites.png" : "Satellites Orbiting Earth"
 ---
 
