@@ -32,4 +32,6 @@ subtitle: Some helpful learning resources, for everthing else there is always Go
 
 * [Making a web app with Shiny](http://jnmaloof.github.io/BIS180L_web/2016/05/05/Shiny/)
 
-#### 
+#### RStudio - RMarkdown & RPresentation
+
+ * Samples showing Stock Portfolio trend[(RPresentation)](https://tarunparmar.github.io/rpresentation_demo)[(RMarkdown)](rmarkdown_demo)
