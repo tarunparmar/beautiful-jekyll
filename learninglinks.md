@@ -17,6 +17,10 @@ subtitle: Some helpful learning resources, for everthing else there is always Go
 
 * [SparklyR from RStudio for cluster computing](http://spark.rstudio.com/)
 
+* [Tutorial: data manipulation using dplyr](http://stcorp.nl/R_course/tutorial_dplyr.html)
+
+* [Graphics with ggplot2](http://www.statmethods.net/advgraphs/ggplot2.html)
+
   
 #### R Shiny 
 
@@ -32,7 +36,20 @@ subtitle: Some helpful learning resources, for everthing else there is always Go
 
 * [Making a web app with Shiny](http://jnmaloof.github.io/BIS180L_web/2016/05/05/Shiny/)
 
-  
-#### RMarkdown & RPresentation in RStudio
+* [DT: An R interface to the DataTables library](http://rstudio.github.io/DT/)
 
- * Samples showing Stock Portfolio trend [(RPresentation)](https://tarunparmar.github.io/rpresentation_demo)  [(RMarkdown)](https://tarunparmar.github.io/rmarkdown_demo)
+* [Guide to Shiny apps with Shiny Server on Amazon EC2](https://www.mpopov.com/blog/2014/6/1/guide-to-shiny-apps-with-shiny-server-on-amazon-ec2)
+
+  
+#### Plotly
+
+ * [Plotly R Library](https://plot.ly/r/)
+
+ * [Plotly book for R](https://cpsievert.github.io/plotly_book/)
+
+ * [Portfolio Optimization using R and Plotly](http://moderndata.plot.ly/portfolio-optimization-using-r-and-plotly/)
+
+ * [Text and Annotations in R](https://plot.ly/r/text-and-annotations/)
+
+
+#### 

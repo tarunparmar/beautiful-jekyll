@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - My Shiny Apps: "http://tarunparmar.github.io/myshinyapps/"
+    - Projects: "http://tarunparmar.github.io/projects/"
     - Learning Resources: "http://tarunparmar.github.io/learninglinks/"
     - Resume: "http://tarunparmar.github.io/resume/"
   Author's home: "http://tarunparmar.github.io"
