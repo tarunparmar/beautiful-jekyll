@@ -16,7 +16,7 @@ subtitle: Links to some of my Shiny Apps and other projects
 
 * [Data Analysis and Visualization App](http://tarunparmar.shinyapps.io)
 
-* [dplyr package Demo App](http://tarunparmar.shinyapps.io/dplyrdemo)
+* [dplyr package Demo App](http://rpubs.com/tarunparmar/dplyr_demo)
 
 * [Plotly interactive plots gallery](http://tarunparmar.shinyapps.io/plotlygallery) 
 
