@@ -16,11 +16,11 @@ subtitle: Links to some of my Shiny Apps and other projects
 
 * [Data Analysis and Visualization App](http://tarunparmar.shinyapps.io)
 
-* [dplyr package Demo App](http://tarunparmar.shinyapps.io/dplyrdemo)
+* [dplyr package Demo App](https://rpubs.com/tarunparmar/dplyr_demo)
 
 * [Plotly interactive plots gallery](http://tarunparmar.shinyapps.io/plotlygallery) 
 
   
 #### Python Notebook
 
- * Jupyter notebook with R kernel and Plotly[(Jupyter Notebook)](https://tarunparmar.github.io/jupyteR_demo)
+ * Jupyter notebook with R kernel and Plotly [(Jupyter Notebook)](https://tarunparmar.github.io/jupyteR_demo)
