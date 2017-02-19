@@ -23,4 +23,4 @@ subtitle: Links to some of my Shiny Apps and other projects
   
 #### Python Notebook
 
- * 
+ * Jupyter notebook with R kernel and Plotly[(Jupyter Notebook)](https://tarunparmar.github.io/jupyteR_demo)
