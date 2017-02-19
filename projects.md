@@ -7,10 +7,10 @@ subtitle: Links to some of my Shiny Apps and other projects
 #### RMarkdown & RPresentation in RStudio
 
  * Samples showing Stock Portfolio trend [(RPresentation)](https://tarunparmar.github.io/rpresentation_demo)  [(RMarkdown)](https://tarunparmar.github.io/rmarkdown_demo)
-
+ 
+ * NYC Motor Vehicle Accidents using Spark [(RMarkdown)](http://rpubs.com/tarunparmar/nypd_boroughs)
   
 #### Shiny Apps
-
 
 * [My First Shiny App](http://tarunparmar.shinyapps.io/FirstRapp)
 
