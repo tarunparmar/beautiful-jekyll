@@ -283,7 +283,7 @@ pd.scatter_matrix(data, alpha = 0.3, figsize = (14,8), diagonal = 'kde');
 ```
 
 
-![png](customer_segments_files/customer_segments_15_0.png)
+![png](https://tarunparmar.github.io/customer_segments_files/customer_segments_15_0.png)
 
 
 ### Question 3
@@ -319,7 +319,7 @@ pd.scatter_matrix(log_data, alpha = 0.3, figsize = (14,8), diagonal = 'kde');
 ```
 
 
-![png](customer_segments_files/customer_segments_20_0.png)
+![png](https://tarunparmar.github.io/customer_segments_files/customer_segments_20_0.png)
 
 
 ### Observation
@@ -1029,7 +1029,7 @@ pca_results = vs.pca_results(good_data, pca)
 ```
 
 
-![png](customer_segments_files/customer_segments_29_0.png)
+![png](https://tarunparmar.github.io/customer_segments_files/customer_segments_29_0.png)
 
 
 
@@ -1197,7 +1197,7 @@ vs.biplot(good_data, reduced_data, pca)
 
 
 
-![png](customer_segments_files/customer_segments_40_1.png)
+![png](https://tarunparmar.github.io/customer_segments_files/customer_segments_40_1.png)
 
 
 ### Observation
@@ -1310,7 +1310,7 @@ vs.cluster_results(reduced_data, preds, centers, pca_samples)
 ```
 
 
-![png](customer_segments_files/customer_segments_51_0.png)
+![png](https://tarunparmar.github.io/customer_segments_files/customer_segments_51_0.png)
 
 
 ### Implementation: Data Recovery
