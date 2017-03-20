@@ -6,7 +6,7 @@ subtitle: Links to some of my Shiny Apps and other projects
 
 #### Machine Learning Nanodegree (Udacity)
 
- * Titanic Survival Exploration [Github]()
+ * Titanic Survival Exploration [Github](https://github.com/tarunparmar/titanic_survival_exploration)
 
  * Predicting Boston Housting Prices [Github](https://github.com/tarunparmar/boston_housing)
 
