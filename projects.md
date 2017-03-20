@@ -3,7 +3,21 @@ layout: page
 title: Projects
 subtitle: Links to some of my Shiny Apps and other projects
 ---
-  
+
+#### Machine Learning Nanodegree (Udacity)
+
+ * Titanic Survival Exploration [Github]()
+
+ * Predicting Boston Housting Prices [Github]()
+
+ * Building a Student Intervention System [Github]()
+
+ * Creating Customer Segments [Github]()
+
+ * Train a Smartcab to Drive [Github]()
+
+ * Captsone [Github]()
+
 #### RMarkdown & RPresentation in RStudio
 
  * Samples showing Stock Portfolio trend [(RPresentation)](https://tarunparmar.github.io/rpresentation_demo)  [(RMarkdown)](https://tarunparmar.github.io/rmarkdown_demo)
