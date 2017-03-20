@@ -8,13 +8,13 @@ subtitle: Links to some of my Shiny Apps and other projects
 
  * Titanic Survival Exploration [Github]()
 
- * Predicting Boston Housting Prices [Github]()
+ * Predicting Boston Housting Prices [Github](https://github.com/tarunparmar/boston_housing)
 
- * Building a Student Intervention System [Github]()
+ * Building a Student Intervention System [Github](https://github.com/tarunparmar/student_intervention)
 
- * Creating Customer Segments [Github]()
+ * Creating Customer Segments [Github](https://github.com/tarunparmar/customer_segments)
 
- * Train a Smartcab to Drive [Github]()
+ * Train a Smartcab to Drive [Github](https://github.com/tarunparmar/Train-a-Smartcab-to-Drive)
 
  * Captsone [Github]()
 
