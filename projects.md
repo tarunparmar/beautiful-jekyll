@@ -16,6 +16,8 @@ subtitle: Links to some of my Shiny Apps and other projects
 
  * Train a Smartcab to Drive [Github](https://github.com/tarunparmar/Train-a-Smartcab-to-Drive)
 
+* Ensemble Learning [Github](https://rpubs.com/tarunparmar/emsemble-learning)
+
  * Captsone [Github]()
 
 #### RMarkdown & RPresentation in RStudio
